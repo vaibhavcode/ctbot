@@ -2,7 +2,7 @@
 # https://discordpy.readthedocs.io/en/stable/quickstart.html#a-minimal-bot
 
 import os
-
+from keep_alive import keep_alive
 import discord
 
 intents = discord.Intents.default()
