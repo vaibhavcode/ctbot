@@ -2,8 +2,8 @@
   // These tasks will run in order when initializing your CodeSandbox project.
   "setupTasks": [
     {
-      "command": "python main.py",
-      "name": "P"
+      "name": "P",
+      "command": "python main.py"
     }
   ],
 
